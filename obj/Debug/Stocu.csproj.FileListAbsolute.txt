@@ -1,0 +1,10 @@
+F:\C#\Stocu\bin\Debug\Stocu.exe.config
+F:\C#\Stocu\bin\Debug\Stocu.exe
+F:\C#\Stocu\bin\Debug\Stocu.pdb
+F:\C#\Stocu\obj\Debug\Stocu.csprojAssemblyReference.cache
+F:\C#\Stocu\obj\Debug\Stocu.Form1.resources
+F:\C#\Stocu\obj\Debug\Stocu.Properties.Resources.resources
+F:\C#\Stocu\obj\Debug\Stocu.csproj.GenerateResource.cache
+F:\C#\Stocu\obj\Debug\Stocu.csproj.CoreCompileInputs.cache
+F:\C#\Stocu\obj\Debug\Stocu.exe
+F:\C#\Stocu\obj\Debug\Stocu.pdb
